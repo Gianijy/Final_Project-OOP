@@ -50,18 +50,18 @@ public class Main{
  
  class Hangman{
 	 
-	 //dito ung drawing ng tao
+	 //dito idradrawing yung tao
 	 
 	 public void easy() {
-		 
+		 // without post stand, stage
 	 }
 	 
 	 public void hard() {
-		 
+		 // with post stand, no stage
 	 }
 	 
 	 public void extreme() {
-		 
+		 // with post stand and stage
 	 }
  }
  
@@ -69,11 +69,17 @@ public class Main{
  class RandomWord{
 	 // 5  words per difficulty
 	 /*
+	  * Randomly choosing an element in an array
+	  * 
+	  * use "random.choice();"
+	  * 
 	  * Easy = 5 letter words
 	  * Hard = 7 letter words
 	  * Extreme 10 letter words
 	  * 
 	  */
  }
+
+
 
 
